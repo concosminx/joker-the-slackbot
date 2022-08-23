@@ -9,5 +9,3 @@ _uses deprecated Apps API / OAuth Scope: bot_
 - get a new joke with `@AppName next`
 - finish with `@AppName finish`
 
-Screens:
-
