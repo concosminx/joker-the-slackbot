@@ -11,4 +11,3 @@ _uses deprecated Apps API / OAuth Scope: bot_
 
 Screens:
 
-![# Example](screens/screen001.jpg)
