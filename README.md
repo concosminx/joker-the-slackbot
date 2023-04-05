@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/concosminx/joker-the-slackbot/actions/workflows/gradle.yml/badge.svg)](https://github.com/concosminx/joker-the-slackbot/actions/workflows/gradle.yml)
+
 # SlackBot
 
 _uses deprecated Apps API / OAuth Scope: bot_
